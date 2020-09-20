@@ -8,7 +8,7 @@
 
 |             Day              |          Focus           | Day | Focus |
 | :--------------------------: | :----------------------: | :-: | :---: |
-| [Day 1](#day-1) **15/09/20** | Started learning Node Js |
+| [Day 1](#day-1) **20/09/20** | Started learning Node Js |
 
 <a name="day-1"></a>
 
