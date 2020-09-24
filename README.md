@@ -6,13 +6,31 @@
 
 ### Table of Contents
 
-|             Day              |          Focus           |             Day              |       Focus       |
-| :--------------------------: | :----------------------: | :--------------------------: | :---------------: |
-| [Day 1](#day-1) **20/09/20** | Started learning Node Js | [Day 2](#day-2) **20/09/20** | Node Js continued |
+|             Day              |       Focus        |
+| :--------------------------: | :----------------: |
+| [Day 1](#day-1) **20/09/20** | Basics of backend  |
+| [Day 2](#day-2) **21/09/20** |  Node Js started   |
+| [Day 3](#day-3) **22/09/20** | Node Js continued  |
+| [Day 4](#day-4) **23/09/20** | Express Js started |
 
 <a name="day-1"></a>
 
 ### Day 1: September 20, 2020
+
+**Today's Focus**: Basics of backend
+
+**Details**:
+
+- Started learning the basics of backend
+- Learnt how internet works, the design pattern; i.e; MVC
+- Learnt the basics of Architectures; i.e; SOAP and REST
+- Also completed the basics of networking
+
+[Table of Contents](#toc)
+
+<a name="day-2"></a>
+
+### Day 2: September 21, 2020
 
 **Today's Focus**: Node Js practise using Tutorialspoint
 
@@ -21,11 +39,11 @@
 - Started learning about basics of node
 - Learnt callback, event loop, exporting modules and file system
 
-<a name="toc"></a>
+[Table of Contents](#toc)
 
-<a name="day-2"></a>
+<a name="day-3"></a>
 
-### Day 2: September 21, 2020
+### Day 3: September 22, 2020
 
 **Today's Focus**: Node Js practise continued
 
@@ -33,4 +51,7 @@
 
 - Learnt buffers and streams, pipes, event emitter and HTTP node module
 - Finally started my first node server
+- Had an overview of routing in Nodejs
 - Node Js completed
+
+[Table of Contents](#toc)
