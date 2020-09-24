@@ -55,3 +55,18 @@
 - Node Js completed
 
 [Table of Contents](#toc)
+
+<a name="day-4"></a>
+
+### Day 4: September 23, 2020
+
+**Today's Focus**: Express js started
+
+**Details**:
+
+- Learnt the basics and working of middleware
+- Started using Express js Routing
+- Started my first Express js server, used - body-parser, Routing
+- Loaded a static website with the express and node backend
+
+  [Table of Contents](#toc)
