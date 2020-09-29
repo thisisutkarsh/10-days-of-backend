@@ -12,6 +12,8 @@
 | [Day 2](#day-2) **21/09/20** |  Node Js started   |
 | [Day 3](#day-3) **22/09/20** | Node Js continued  |
 | [Day 4](#day-4) **23/09/20** | Express Js started |
+| [Day 5](#day-5) **24/09/20** |  Started Async Js  |
+| [Day 6](#day-6) **25/09/20** |    Async-Await     |
 
 <a name="day-1"></a>
 
@@ -68,5 +70,31 @@
 - Started using Express js Routing
 - Started my first Express js server, used - body-parser, Routing
 - Loaded a static website with the express and node backend
+
+  [Table of Contents](#toc)
+
+<a name="day-5"></a>
+
+### Day 5: September 24, 2020
+
+**Today's Focus**: Promises
+
+**Details**:
+
+- Learnt promises using Codecademy
+- Started working on MERN stack blog application
+
+  [Table of Contents](#toc)
+
+<a name="day-4"></a>
+
+### Day 6: September 25, 2020
+
+**Today's Focus**: Async - Await
+
+**Details**:
+
+- Async -Await completed
+- Formed ways of countering callback hell
 
   [Table of Contents](#toc)
